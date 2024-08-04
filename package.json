@@ -1,12 +1,12 @@
 {
-"name": "Alex",
+"name": "alex",
 "version": "2.1.2",
-"description": "Alex has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "alex has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name Alex",
-"stop": "pm2 stop Alex",
-"restart": "pm2 restart Alex"
+"start": "pm2 start start.js --deep-monitoring --attach --name alex",
+"stop": "pm2 stop alex",
+"restart": "pm2 restart alex"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
